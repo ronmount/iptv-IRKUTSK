@@ -3,105 +3,11 @@
 http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_1TV.m3u8
 #EXTINF:-1 group-title="ИРКУТСК",Россия 1 
 http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_ROSSIA1.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Матч! 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_MATCHTV.m3u8
 #EXTINF:-1 group-title="ИРКУТСК",НТВ 
 http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_NTV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Пятый канал 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_5TV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Россия K 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_ROSSIAK.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Россия 24 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Карусель 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",ОТР 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_OTR.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",ТВЦ 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_TVC.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",РЕН ТВ 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_RENTV.m3u8
 #EXTINF:-1 group-title="ИРКУТСК",СТС 
 http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_STS.m3u8
 #EXTINF:-1 group-title="ИРКУТСК",Домашний 
 http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",ТВ3 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_TV3.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Пятница! 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Звезда 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",МИР 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_MIR.m3u8
 #EXTINF:-1 group-title="ИРКУТСК",ТНТ 
 http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_TNT.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",МУЗ ТВ 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",АИСТ HD 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_AISTHD.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",АКТИС HD720 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",НТС HD 
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",[Радио] MCM HD720 
-http://dmi3y-tv6.ru/hls/CH_MCMHD720_IRK.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",БСТ-24 HD (Братск)
-http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_BST24HD_BR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+4)
-http://dmi3y-tv6.ru/hls/zabava/CH_CHE_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+4)
-http://dmi3y-tv6.ru/hls/zabava/CH_U_4.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+4)
-http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_4.m3u8
-#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",LEOMAX 24 HD
-http://dmi3y-tv6.ru/hls/CH_LEOMAX24HD.m3u8
-#EXTINF:-1 tvg-id="TNT4.ru",TNT4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru",Pobeda
-http://178.217.72.66:8080/pobeda/index.m3u8
-#EXTINF:-1 tvg-id="RUTV.ru",RU TV
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:-1 tvg-id="Kino24.ru",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="Enisey.ru",Енисей (1080p) [Not 24/7]
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="Izvestia.ru",Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="LDPRTV.ru",ЛДПР ТВ (1080p)
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KinoTV.ru",Kino TV
-https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-id="2x2.ru",2x2
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 tvg-id="Solnce.ru",Solnce
-http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 tvg-id="STSkids.ru",STS kids
-http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
-http://dmi3y-tv6.ru/hls/CH_STSLOVE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы HD (СМОТРИМ)
-http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360° HD
-http://dmi3y-tv6.ru/hls/CH_360TVHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Калейдоскоп ТВ
-http://dmi3y-tv6.ru/hls/CH_KALEYDOSKOPTV.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
-http://dmi3y-tv6.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",МАМА
-http://dmi3y-tv6.ru/hls/CH_MAMA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Ani
-http://dmi3y-tv6.ru/hls/CH_ANI.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ HD
-http://dmi3y-tv6.ru/hls/CH_MULTHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ И МУЗЫКА
-http://dmi3y-tv6.ru/hls/CH_MULTIMUZYKA.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",МИР 24 HD
-http://dmi3y-tv6.ru/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РБК HD
-http://dmi3y-tv6.ru/hls/CH_RBKHD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RTД HD
-http://dmi3y-tv6.ru/hls/CH_RTDHD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ HD
-http://dmi3y-tv6.ru/hls/CH_RZHDTVHD.m3u8
-#EXTINF:0 tvg-rec="7",E TV
-http://qbr3q7dn.rostelekom.xyz/iptv/YLSMFNF46GUTHC/736/index.m3u
